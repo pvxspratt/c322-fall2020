@@ -1,4 +1,4 @@
-Patterns we will study:
+# Patterns we will study:
   1. Null Object
   2. Singleton
   3. Iterator
